@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../Imagens/backgroundLp.png);
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  justify-content: center;
+}
+
+.Questoes {
+  color: white;
+  display: grid;
+  width: 450px;
+  justify-content: center;
+  background-color: #131312f1;
+  padding: 10px;
+}
+
+.img-logo {
+  width: 185px;
+}
+
+.containerBY {
+  color: white;
+}

@@ -1,0 +1,32 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../Imagens/backgroundLp.png);
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  justify-content: center;
+}
+
+.Questoes {
+  color: white;
+  display: grid;
+  width: 450px;
+  justify-content: center;
+  background-color: rgba(19, 19, 18, 0.9450980392);
+  padding: 10px;
+}
+
+.img-logo {
+  width: 185px;
+}
+
+.containerBY {
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
